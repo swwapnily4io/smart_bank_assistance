@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'bank-bot-poc-xoriant'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ffdb46371fd7434bb76e07107abec6d5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d0957190932341239e3696efadc98ae3 }}
